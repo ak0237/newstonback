@@ -1,0 +1,285 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: black; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-style: normal; 
+    text-align: left ; 
+    font-size: 25px
+}
+
+
+body{
+    width: 100%;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#corpo{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: center;
+
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+header div{
+    margin-bottom: 30px;
+    padding: 10px;
+    display: flex;
+    width: 100%;
+    
+}
+
+.red-bg{
+    background-color: #8B0300;
+}
+
+.redes-sociais{
+    justify-content: end;
+}
+
+.redes-sociais a img{
+    padding: 10px;
+    width: 35px;
+}
+
+.logo{
+    justify-content: center;
+
+}
+
+main{
+    width: 100%;
+}
+
+h2{
+    text-align: left;
+}
+
+#sobre p {
+    width: 95%;
+    text-align: justify;
+}
+
+.pudimnheiro article:hover{
+    cursor: pointer;
+    
+    z-index: 5;
+    background-color: #8B0300;
+}
+
+article{
+    text-align: justify;
+    width: 100%;
+    padding: 10px 0 20px 0;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+article h1{
+    color: #8B0300;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+}
+article p {
+    padding: 10px;
+}
+
+article h4{
+    color: black; 
+    font-size: 28px;
+    text-align: center;
+}
+
+.pudimnheiro{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.pudim{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+}
+
+.pudim a{
+    display: flex;
+    justify-content: center;
+}
+
+.edicao{
+    width: 150px; 
+    border-radius: 10px; 
+    background-color: #8B0300; color: white; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-style: normal; 
+    text-align: center; 
+    font-weight: bold; 
+    padding-top: 8px; 
+    padding-bottom: 8px;
+    margin-bottom: 5px;
+}
+
+.caparevista{
+    width: 200px; 
+    height: 280px; 
+}
+
+footer{
+    display: flex;
+    width: 100%;
+    margin-top: 10px;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.texto-footer p{
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: bold;
+    font-size: 21px;
+    padding: 15px;
+}
+
+footer .redes-sociais{
+    justify-content: end;
+    text-align: end;
+}
+
+
+
+@media only screen and (min-width: 300px) and (max-width: 1199px){
+    *{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    body{
+        width: 100%;
+    }
+
+    html{
+        width: 100%;
+        overflow-x: hidden;
+    }
+    
+    #corpo{
+        width: 100%;
+        display: flex;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+    }
+    #sobre p{
+        padding: 10px 10px 10px 10px;
+        margin-right: 0px;
+    }
+
+    .pudimnheiro{
+        width: 100%;
+    }
+
+    .logo img{
+        width: 200px;
+    }
+    header div{
+        margin-bottom: 5px;
+    }
+    .red-bg{
+        padding: 10px 0px 10px 0px;
+    }
+    .redes-sociais{
+        justify-content: center;
+    }
+    .redes-sociais a {
+        padding: 0px 10px 0px 10px;
+        width: 55px;
+        justify-content: center;
+        
+    }
+    .redes-sociais a img{
+        padding: 10px, 50px, 10px, 50px;
+        
+    }
+    
+    .pudim{
+        margin: 10px 0px 10px 0px;
+    }
+    .pudimnheiro{
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .pudimnheiro article{
+        margin: 10px 0px 10px 0px;
+    }
+
+
+    .pudimnheiro a{
+        width: 150px;
+    }
+
+    .pudimnheiro img{
+        width: 150px;
+        height: 210px;
+    }
+
+    .pudimnheiro article:hover{
+      
+    }
+
+    .pudimnheiro p{
+        width: 150px;
+        padding: 8px 0px 0px 0px;
+    }
+
+    footer{
+        width: 100%;
+    }
+
+    .texto-footer p{
+        font-size: 10px;
+    }
+    footer .redes-sociais{
+        display: none;
+    }
+    #pemail p{
+        text-align: center;
+        padding-right: 0;
+        width: 150px;  
+    }
+
+    .texto-footer{
+        width: 187px;
+    }
+
+    #pemail .redes-sociais a{
+        display: none;
+    }
+    
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1700px){
+.logo img{
+    width: 440px;
+}
+.pudimnheiro{
+    grid-template-columns: 1fr 1fr 1fr;
+}
+}

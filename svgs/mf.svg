@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW 2021.5 (Versão de avaliação) -->
+
+<svg
+   xml:space="preserve"
+   width="210cm"
+   height="210cm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 210000 210000"
+   id="svg10"
+   sodipodi:docname="MACAFACEBOOK.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview12"
+   pagecolor="#8b0300"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="mm"
+   showgrid="false"
+   inkscape:zoom="0.039462003"
+   inkscape:cx="2546.7536"
+   inkscape:cy="4485.3273"
+   inkscape:window-width="1366"
+   inkscape:window-height="705"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g3754" />
+ <defs
+   id="defs4"><inkscape:path-effect
+   effect="powerclip"
+   id="path-effect1181"
+   is_visible="true"
+   lpeversion="1"
+   inverse="true"
+   flatten="false"
+   hide_clip="false"
+   message="Usar a regra de preenchimento par ou ímpar na caixa de diálogo &lt;b&gt;preenchimento e contorno&lt;/b&gt; se nenhum resultado nivelar após converter o clipe em caminhos." /><inkscape:path-effect
+   effect="powerclip"
+   id="path-effect1135"
+   is_visible="true"
+   lpeversion="1"
+   inverse="true"
+   flatten="false"
+   hide_clip="false"
+   message="Usar a regra de preenchimento par ou ímpar na caixa de diálogo &lt;b&gt;preenchimento e contorno&lt;/b&gt; se nenhum resultado nivelar após converter o clipe em caminhos." />
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:#8B0300}
+   ]]>
+  </style>
+ <inkscape:path-effect
+   effect="powerclip"
+   id="path-effect4023"
+   is_visible="true"
+   lpeversion="1"
+   inverse="true"
+   flatten="false"
+   hide_clip="false"
+   message="Usar a regra de preenchimento par ou ímpar na caixa de diálogo &lt;b&gt;preenchimento e contorno&lt;/b&gt; se nenhum resultado nivelar após converter o clipe em caminhos." /><linearGradient
+   id="paint0_linear_229_197"
+   x1="193.64999"
+   y1="178.58"
+   x2="193.64999"
+   y2="-0.034078501"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.72667099,0,0,0.72667099,-34.927638,32.304569)"><stop
+     stop-color="#0062E0"
+     id="stop3349"
+     offset="0"
+     style="stop-color:#ffffe0;stop-opacity:1;" /><stop
+     offset="1"
+     stop-color="#19AFFF"
+     id="stop3351" /></linearGradient><clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath4019"><path
+     d="M 131.98505,118.34894 135.008,99.526739 H 117.20747 V 86.418373 c 0,-5.377712 2.01506,-9.411123 10.07602,-9.411123 h 8.73241 V 59.865602 c -4.70229,-0.672171 -10.07602,-1.344427 -14.77831,-1.344427 -15.44903,0 -26.196489,9.411123 -26.196489,26.216642 V 99.526739 H 78.24846 v 18.822201 h 16.792641 v 47.39132 c 3.694391,0.67217 7.388789,1.00864 11.083189,1.00864 3.69439,0 7.38879,-0.33647 11.08318,-1.00864 v -47.39132 z"
+     fill="#ffffff"
+     id="path4021"
+     style="display:block;fill:#ffffff;fill-opacity:1;stroke-width:0.72667"
+     inkscape:label="path3327" /></clipPath><linearGradient
+   id="b"><stop
+     offset="0"
+     stop-color="#3771c8"
+     id="stop2" /><stop
+     stop-color="#3771c8"
+     offset=".128"
+     id="stop4" /><stop
+     offset="1"
+     stop-color="#60f"
+     stop-opacity="0"
+     id="stop6" /></linearGradient><linearGradient
+   id="a"><stop
+     offset="0"
+     stop-color="#fd5"
+     id="stop9" /><stop
+     offset=".1"
+     stop-color="#fd5"
+     id="stop11" /><stop
+     offset=".5"
+     stop-color="#ff543e"
+     id="stop13" /><stop
+     offset="1"
+     stop-color="#c837ab"
+     id="stop15" /></linearGradient><radialGradient
+   id="c"
+   cx="158.429"
+   cy="578.08801"
+   r="65"
+   xlink:href="#a"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0,-12.067984,11.227235,0,-6279.0331,2765.3634)"
+   fx="158.429"
+   fy="578.08801" /><radialGradient
+   id="d"
+   cx="147.694"
+   cy="473.45499"
+   r="65"
+   xlink:href="#b"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(1.059095,5.2895079,-21.809051,4.3668032,10037.569,-2790.6962)"
+   fx="147.694"
+   fy="473.45499" /><linearGradient
+   id="paint0_linear_229_197-1"
+   x1="193.64999"
+   y1="178.58"
+   x2="193.64999"
+   y2="-0.034078501"
+   gradientUnits="userSpaceOnUse"><stop
+     stop-color="#0062E0"
+     id="stop1239" /><stop
+     offset="1"
+     stop-color="#19AFFF"
+     id="stop1241" /></linearGradient></defs>
+ <g
+   id="Camada_x0020_1"
+   inkscape:label="Camada 1"
+   inkscape:groupmode="layer">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  
+ <g
+   style="fill:none"
+   id="g3754"
+   transform="matrix(21.165524,0,0,21.165524,19273.179,25581.716)"
+   inkscape:label="g3754"><path
+     id="path7"
+     clip-path="none"
+     style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:52.2237"
+     class="fil0"
+     d="M 123049.54 -107.70127 C 109927.26 506.43998 100644.91 31013.578 99368.959 45743.795 C 89075.71 44940.604 58180.73 31753.134 35516.783 50673.697 C 17616.138 65618.493 15542.854 80999.404 18136.27 111667.64 C 21182.988 147700.8 45077.42 210848.99 78749.553 209882.86 C 91023.115 209530.87 99346.497 201575.66 112092.17 205157.66 C 123138.47 208260.27 133153.4 213346.34 144821.69 206862.79 C 178766.43 187999.14 205996.88 102624.04 185954.56 63999.026 C 179469.44 51497.771 173927.95 52135.951 164572.12 44422.539 C 164846.3 44226.179 165283.91 43627.142 165424.92 43883.034 C 165563.83 44136.321 166080.85 43465.267 166275.64 43358.73 C 166522.65 43222.424 167670.56 42581.115 168012.1 42408.779 C 177560.65 37579.149 182390.28 36281.911 192265.75 28599.839 C 186576 23636.518 185398.35 22075.564 175950.08 19542.726 C 136132.81 8861.4592 120906.45 33232.056 112561.14 36982.752 C 115467.37 14254.046 130005.89 13565.191 127240.66 711.94984 C 125805.61 85.121175 124407.02 -171.23313 123049.54 -107.70127 z M 122648.61 58251.696 C 128532.07 58251.696 135255.65 59092.192 141139.11 59932.57 L 141139.11 81363.871 L 130212.8 81363.871 C 120127 81363.871 117605.78 86406.619 117605.78 93130.095 L 117605.78 109518.77 L 139877.68 109518.77 L 136095.35 133051.22 L 117605.78 133051.22 L 117605.78 192243.76 L 117603.92 192414.34 L 89858.845 192414.14 C 89845.933 192412.31 89871.72 133051.22 89871.72 133051.22 L 68860.844 133051.22 L 68860.844 109518.77 L 89871.72 109518.77 L 89871.72 91028.95 C 89871.72 70017.96 103318.92 58251.696 122648.61 58251.696 z "
+     transform="matrix(0.04721919,0,0,0.04721919,-910.12014,-1202.8835)" /></g><g
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;fill:none"
+   id="g3428"
+   transform="matrix(14.738821,0,0,14.738821,-5099.045,140945.72)" /></g>
+</svg>
